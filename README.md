@@ -1,4 +1,4 @@
-# PacMen Faxtory 
+# PacMen Factory 
 
 ## Description
 
